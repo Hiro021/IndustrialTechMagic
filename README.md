@@ -1,9 +1,9 @@
--1.7.10_AM2-1.4.0.009
--ActuallyAdditions-1.7.10-r21
--AdvancedSolarPanel-1.7.10-3.5.1
--ae2stuff-0.5.1.61-mc1.7.10
--AgriCraft-1.7.10-1.5.0
--AnimationAPI-1.7.10-1.2.4
+1.7.10_AM2-1.4.0.009
+ActuallyAdditions-1.7.10-r21
+AdvancedSolarPanel-1.7.10-3.5.1
+ae2stuff-0.5.1.61-mc1.7.10
+AgriCraft-1.7.10-1.5.0
+AnimationAPI-1.7.10-1.2.4
 AOBD-2.9.2
 AppleCore-mc1.7.10-3.1.1
 appliedenergistics2-rv3-beta-6
