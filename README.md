@@ -1,3 +1,4 @@
+ï»¿##  Modlist
 1.7.10_AM2-1.4.0.009
 ActuallyAdditions-1.7.10-r21
 AdvancedSolarPanel-1.7.10-3.5.1
@@ -144,10 +145,3 @@ Wawla-1.0.5.120
 WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4b
 witchery-1.7.10-0.24.1
 WR-CBE-1.7.10-1.4.1.9-universal
-
-
-
-
-
-
-
