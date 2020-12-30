@@ -1,25 +1,25 @@
 1.7.10_AM2-1.4.0.009
-ActuallyAdditions-1.7.10-r21
-AdvancedSolarPanel-1.7.10-3.5.1
-ae2stuff-0.5.1.61-mc1.7.10
-AgriCraft-1.7.10-1.5.0
-AnimationAPI-1.7.10-1.2.4
-AOBD-2.9.2
-AppleCore-mc1.7.10-3.1.1
-appliedenergistics2-rv3-beta-6
-arcane_engineering-0.2.7
-Aroma1997Core-1.7.10-1.0.2.16
-Aroma1997s-Dimensional-World-1.7.10-1.1.0.1
-Avaritia-1.13
-backpack-2.0.1-1.7.x
-baconators-1.7.10-2.0.3
-bdlib-1.9.4.109-mc1.7.10
-BiblioCraft[v1.11.7][MC1.7.10]
-BiblioWoods[BiomesOPlenty][v1.9]
-BiblioWoods[Forestry][v1.7]
-BiblioWoods[Natura][v1.5]
-BigReactors-0.4.3A
-Binnie Patcher 1.8
+- ActuallyAdditions-1.7.10-r21
+- AdvancedSolarPanel-1.7.10-3.5.1
+- ae2stuff-0.5.1.61-mc1.7.10
+- AgriCraft-1.7.10-1.5.0
+- AnimationAPI-1.7.10-1.2.4
+- AOBD-2.9.2
+- AppleCore-mc1.7.10-3.1.1
+- appliedenergistics2-rv3-beta-6
+- arcane_engineering-0.2.7
+- Aroma1997Core-1.7.10-1.0.2.16
+- Aroma1997s-Dimensional-World-1.7.10-1.1.0.1
+- Avaritia-1.13
+- backpack-2.0.1-1.7.x
+- baconators-1.7.10-2.0.3
+- bdlib-1.9.4.109-mc1.7.10
+- BiblioCraft[v1.11.7][MC1.7.10]
+- BiblioWoods[BiomesOPlenty][v1.9]
+- BiblioWoods[Forestry][v1.7]
+- BiblioWoods[Natura][v1.5]
+- BigReactors-0.4.3A
+- Binnie Patcher 1.8
 binnie-mods-2.0-pre14
 BiomesOPlenty-1.7.10-2.1.0.2308-universal
 BloodMagic-1.7.10-1.3.3-17
